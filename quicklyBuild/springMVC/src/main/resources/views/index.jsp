@@ -15,9 +15,9 @@
 <body leftMargin=0  topMargin=0  style="width: 100%;height: 100%;">
     <pre>Welcome to Spring MVC</pre>
     <br/>
-    划分克里斯撒的发his哦度会时间耗费搜
+    hi
     <img src="static/a.jpg"/>
-    欢迎陈浩翔卡死了交电话费斯卡迪就会发为我可视电话房间爱咳嗽了哈哈酸辣粉是绿肥红瘦时候撒谎了开发商
+    欢迎
     <script src="static/js/jquery-1.8.1.js"></script>
     <script src="static/js/offRightKey.js"></script>
     <script src="static/js/offFAll.js"></script>
